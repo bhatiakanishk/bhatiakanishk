@@ -1,8 +1,8 @@
 Hi 👋 My name is Kanishk Bhatia
 ===============================
 
-* 🌍  I'm based in Boston
-* ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatia.ka@northeastern.edu)
+* 🌍  I'm based in Boston
+* ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatia.ka@northeastern.edu)
 
 ### Skills
 
@@ -25,11 +25,9 @@ Hi 👋 My name is Kanishk Bhatia
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/Kanishkbht" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/bhatiakanishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kanishkbhatia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhatiakanishk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kanu_bht" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
