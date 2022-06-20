@@ -3,7 +3,6 @@ Hi 👋 My name is Kanishk Bhatia
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatia.ka@northeastern.edu)
-<!* 🖥️  See my portfolio at [My Portfolio Website](http://kanishkbhatia-portfolio.netlify.app)>
 * 🚀  I'm currently working on [My Portfolio Website](http://kanishkbhatia-portfolio.netlify.app)
 
 ### Skills
