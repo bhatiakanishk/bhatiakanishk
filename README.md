@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master's student at Northeastern University, seeking opportunities as a Front-End Developer and iOS Developer
 
 * 🌍  I'm based in Boston, MA
-* 🖥️  See my portfolio at [this link](http://https://kanishkbhatia-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [this link](https://kanishkbhatia-portfolio.netlify.app/)
 * ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatia.ka@northeastern.edu)
 * 🧠  I'm learning Amazon Web-Services (AWS)
 
