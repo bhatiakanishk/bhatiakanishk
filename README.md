@@ -5,7 +5,7 @@ Master's student at Northeastern University, seeking opportunities as a Front-En
 
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [this link](https://kanishkbhatia-portfolio.netlify.app/)
-* ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatia.ka@northeastern.edu)
+* ✉️  You can contact me at [bhatia.ka@northeastern.edu](mailto:bhatiakanishk21@gmail.com)
 * 🧠  I'm learning Amazon Web-Services (AWS)
 
 ### Skills
