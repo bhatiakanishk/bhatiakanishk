@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kanishk Bhatia
 ======================================================================================================================================
 
-Master's student at Northeastern University, seeking opportunities as a Front-End Developer and iOS Developer
+Master's student from Northeastern University, seeking opportunities as a Software Engineer, DevOps Engineer, Front-End Developer and iOS Developer
 
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [this link](https://kanishkbhatia-portfolio.netlify.app/)
