@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master's student from Northeastern University, seeking opportunities as a Software Engineer, DevOps Engineer, Front-End Developer and iOS Developer
 
 * 🌍  I'm based in Boston, MA
-* 🖥️  See my portfolio at [this link](https://kanishkbhatia-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [this link](https://kanishkbhatia.netlify.app/)
 * ✉️  You can contact me at [bhatiakanishk21@gmail.com](mailto:bhatiakanishk21@gmail.com)
-* 🧠  I'm learning Amazon Web-Services (AWS)
-
+* 🧠  I'm learning GraphQl
 ### Skills
 
 
