@@ -6,7 +6,7 @@ Master's student from Northeastern University, seeking opportunities as a Softwa
 * 🌍  I'm based in San Francisco, CA
 * 🖥️  See my portfolio at [this link](https://kanishkbhatia.netlify.app/)
 * ✉️  You can contact me at [bhatiakanishk21@gmail.com](mailto:bhatiakanishk21@gmail.com)
-* 🧠  I'm learning NextJS
+* 🧠  I'm learning Go
 ### Skills
 
 
